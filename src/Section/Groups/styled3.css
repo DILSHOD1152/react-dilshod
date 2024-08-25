@@ -1,0 +1,34 @@
+.moto{
+width: 1440px;
+height: 650px;
+background: url(https://s3-alpha-sig.figma.com/img/c929/a2da/5130a4226e7fc435d3fedd32d15eb389?Expires=1722816000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=k91UIlNQQg5c0j64CIDqK-yWMMk0KCgjuN-5LjQbYBf-uTTt8iBDtdgmMF7FEVUNnfH6EFEKj-SqVHP4ZKgN7OEEZEnlyu4x9Ir5V9bbuDhxIfu~vtdcppwIRVSBi3QcY4RqxEfxwV1a372py90XcKOaFBJI4O5RRziu1C3RlxmlH2ibDWZYI33mj7LVWk-ZpR7TdiuGcu36dUUMWYkv7-OOK03abarYLXjZLnuTiJJTefKbhOmE5YboqRVvrRBi801EPy7rCgIeR8LXfI3Oq7x5FHPbNY8mkIubDS3ZTkcmwicDovCjF8i8-i4YHxXLMr9VOsKAo-5-T-IaT3zpsg__) center;
+
+}
+.scooter{
+font-weight: 700;
+size: 56px;
+line-height: 56px;
+font-size: 56px;
+padding-top: 110px;
+padding-left: 165px;
+color: #FFFFFF;
+}
+.The{
+font-size: 15px;
+font-weight: 400;
+size: 15px;
+line-height: 25px;
+color:#FFFFFF;
+padding-top: 25px;
+padding-left: 260px;
+}
+.battom1{
+ width: 180px;
+ height: 53px;
+ color: #FFFFFF;
+ font-size: 15px;
+ size: 15px;
+ margin-top: 30px;
+ margin-left: 260px;
+ background-color: #FCB72B;
+}

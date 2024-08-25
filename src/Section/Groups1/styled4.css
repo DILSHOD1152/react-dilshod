@@ -1,0 +1,18 @@
+.telifon{
+    width: 96px;
+    height: 96px;
+    background-color: #FCB72B;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 1.2rem;
+}
+.locate{
+    font-size: 24px;
+
+}
+.use{
+    font-size: 15px;
+    color: #939CAA
+}

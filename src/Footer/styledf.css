@@ -1,0 +1,51 @@
+.sign{
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 48px;
+    color:#FFFFFF; 
+}
+.appstore{
+    width: 159px;
+    height: 56px;
+    background-color: #E5ECF4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.appstore1{
+    font-size: 20px;
+}
+.googleplay{
+    width: 182px;
+    height: 56px;
+    background-color: #E5ECF4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.mesejer{
+    width: 120px;
+    height: 24px;
+    color: #FCB72B;
+    font-size: 30px;
+    gap: 15px;
+    cursor: pointer;
+}
+.salc{
+    font-size: 20px;
+    color: #939CAA;
+    gap: 20px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    cursor: pointer;
+      
+}
+.scsc{
+    width: 107px;
+    height: 28px;
+    font-size: 35px;
+    color: #FFFFFF;
+}

@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: auto;
+}
+.l{
+   width: 1440px;
+   height: 650px;
+   background-color: aqua;
+   padding-top: -878px;
+   padding-left: -257px;
+   left: -257px;
+   top: -878px;
+   padding-right: 2;
+   
+   
+  
+}

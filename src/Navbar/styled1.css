@@ -1,0 +1,26 @@
+.batton{
+font-size: 15px;
+width: 180px;
+height: 53px;
+display: flex;
+align-items: center;
+justify-content: center;
+background-color: #FCB72B;
+color:white;
+cursor: pointer;
+}
+.Scoot{
+     font-size: 45px;
+    color: #495567;
+    width: 107px;
+    height: 28px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.About{
+    font-size: 15px;
+    color: #939CAA;
+    cursor: pointer;
+}

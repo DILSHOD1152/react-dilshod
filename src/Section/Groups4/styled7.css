@@ -1,0 +1,30 @@
+.zero{
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 48px;
+    color: #495567;  
+}
+.zero1{
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+    color: #939CAA;
+}
+.batton4{
+    width: 180px;
+    height: 53px;
+    background-color: #FCB72B;
+    color: #FFFFFF;
+    font-size: 15px;
+    cursor: pointer;
+}
+.moony{
+    width: 550px;
+    height: 445px;
+}
+.moony1{
+    width: 445px;
+    height: 445px;
+    border-radius: 50%;
+    cursor: progress;
+}

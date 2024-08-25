@@ -1,0 +1,25 @@
+.Easy{
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: -2.14px;
+    color: #495567;
+}
+.app{
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+    color: #939CAA;
+}
+.kartina{
+    width: 497px;
+    height: 448px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.kartina1{
+width: 445px;
+height: 445px;
+border-radius: 50%;
+}
